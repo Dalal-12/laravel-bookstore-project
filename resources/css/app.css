@@ -1,0 +1,68 @@
+/*  first for the whole block || second for the texts title,autho, and price */
+.first{
+    margin-bottom: 30px;  
+    height:100%;
+}
+.second{   
+    width: 100px;   
+    text-align: center;
+    overflow: auto;
+}
+.price{
+    font-weight: bold;
+}
+.show{
+    width: 100px;
+    height:150px;
+    object-fit: cover;
+    border: 0;
+    background: transparent;
+    border-radius: 10;
+}
+.details{
+    width: 300px;
+    height: 400px;
+    max-height:100% ;
+    max-width: 100%;
+    object-fit: fill;
+    border: 0;
+    border-radius:10px ;
+    background: transparent;
+}
+.description{
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.btn{
+    border-radius: 20px;
+    border: #108766 solid 1px;
+    color: #108766;
+}
+.btn:hover{
+    background-color: #108766;   
+}
+.search{
+    border: #108766 solid 2px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.search:focus{
+    border: #108766 solid 2px;
+
+
+}
+.card-details{
+    border: solid #108766 1px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color:black;
+}
+
+ 
+
+
