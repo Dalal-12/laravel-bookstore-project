@@ -6,6 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<h3>About Project</h3>
+<p>E-Commerce Bookstore web site , Developed by using (HTML - CSS - Bootstrab ) for the Front-end.</p>
+<p>and (Php - Laravel) for the Back-end.</p>
 
 ## About Laravel
 
